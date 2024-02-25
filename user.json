@@ -1,0 +1,154 @@
+ [
+    {
+        "name":  "Justin Ross",
+        "picture": "https://randomuser.me/api/portraits/med/men/34.jpg",
+        "nat": "CA"
+    },
+      {
+        "name": "Martha Morrison",
+        "picture":"https://randomuser.me/api/portraits/med/women/33.jpg",
+        "nat": "US"
+      },
+      {
+        "name":"Sophia Lévesque",
+        "picture": "https://randomuser.me/api/portraits/med/women/23.jpg",
+        "nat": "CA"
+      },
+      {
+        "name": "Iina Hietala",
+        "picture":"https://randomuser.me/api/portraits/med/women/91.jpg",
+        "nat": "FI"
+      },
+      {
+        "name":"Trifun Šakić",
+        "picture":  "https://randomuser.me/api/portraits/med/men/55.jpg",
+        "nat": "RS"
+      },
+      {
+        "name":"Giulia Boyer",
+        "picture":"https://randomuser.me/api/portraits/med/women/41.jpg",
+        "nat": "FR"
+      },
+      {
+        "name":"Ahmet Akşit",
+        "picture":"https://randomuser.me/api/portraits/med/men/97.jpg",
+        "nat": "TR"
+      },
+      {
+        "name": "Lucía Mesa",
+        "picture": "https://randomuser.me/api/portraits/med/women/36.jpg",
+        "nat": "MX"
+      },
+      {
+        "name":"Simon Johansen",
+        "picture":"https://randomuser.me/api/portraits/med/men/35.jpg",
+        "nat": "DK"
+      },
+      {
+        "name":"Gökhan Akyürek",
+        "picture": "https://randomuser.me/api/portraits/med/men/37.jpg",
+        "nat": "TR"
+      },
+      {
+        "name": "Sava Dinčić",
+        
+        "picture":"https://randomuser.me/api/portraits/med/men/29.jpg",
+          
+        "nat": "RS"
+      },
+      {
+        
+        "name": "Edwin Spencer",
+        
+        "picture": "https://randomuser.me/api/portraits/med/men/13.jpg",
+        "nat": "GB"
+      },
+      {
+        "name": "Musab Brubakken",
+        "picture":"https://randomuser.me/api/portraits/med/men/96.jpg",
+        "nat": "NO"
+      },
+      {
+        "name":"Saheli Nayak",
+        "picture":"https://randomuser.me/api/portraits/med/women/6.jpg",
+        "nat": "IN"
+      },
+      {
+        
+        "name": "Ine Norheim",
+        "picture":"https://randomuser.me/api/portraits/med/women/10.jpg",
+        "nat": "NO"
+      },
+      {
+       
+        "name": "Jos Vásquez",
+        "picture": "https://randomuser.me/api/portraits/med/women/58.jpg",
+        "nat": "MX"
+      },
+      {
+        
+        "name": "Madison Novak",
+        
+        "picture": "https://randomuser.me/api/portraits/med/women/51.jpg",
+          
+        "nat": "CA"
+      },
+      {
+        
+        "name":"Ishaan Hiremath",
+        
+        "picture":"https://randomuser.me/api/portraits/med/men/90.jpg",
+         
+        "nat": "IN"
+      },
+      {
+        
+        "name": "Ishita Banerjee",
+       
+        "picture": "https://randomuser.me/api/portraits/med/women/12.jpg",
+         
+        "nat": "IN"
+      },
+      {
+        
+        "name": "Dominic Brar",
+        
+        "picture": "https://randomuser.me/api/portraits/med/men/87.jpg",
+         
+        "nat": "CA"
+      },
+      {
+        
+        "name":"Libid Cyucyura",
+        
+        "picture": "https://randomuser.me/api/portraits/med/women/4.jpg",
+         
+        "nat": "UA"
+      },
+      {
+       
+        "name":"Vera Guillaume",
+       
+        "picture":"https://randomuser.me/api/portraits/med/women/91.jpg",
+        
+        "nat": "CH"
+      },
+      {
+       
+        "name": "Valeria Vujičić",
+       
+        "picture":"https://randomuser.me/api/portraits/med/women/67.jpg",
+          
+        "nat": "RS"
+      },
+      {
+        "name":"Miodrag",
+        "picture":"https://randomuser.me/api/portraits/med/men/63.jpg",
+        "nat": "RS"
+      },
+      {
+        "name": "Stacy",
+        "picture": "https://randomuser.me/api/portraits/med/women/42.jpg",
+        "nat": "US"
+      }
+]
